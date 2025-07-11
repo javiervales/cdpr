@@ -1,7 +1,7 @@
 # Adaptive Gaussian Mixture Models-Based Anomaly Detection for Under-Constrained Cable-Driven Parallel Robots
 
 <p>
-<b>Prepreint in </b>
+<b>Preprint available at <a href="https://arxiv.org/abs/2507.07714">https://arxiv.org/abs/2507.07714</a> </b>
 
 <p>
 <b> Abstract </b> 
