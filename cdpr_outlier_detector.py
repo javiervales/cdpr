@@ -631,8 +631,7 @@ def processfile(archivo, M=1, fastmode=True, DIMPCA=5, WINDOWSIZE=100):
 def main():
     current_dir = os.getcwd()  # Obtiene el directorio actual
     #ficheros = [f for f in os.listdir(current_dir) if f.endswith('.txt')]   # Filtra los archivos .txt
-    #ficheros = {'viento3_esp.txt', 'viento2.txt'}
-    ficheros = {'viento1_esp.txt'}
+    ficheros = {'experiment1.csv'}
     plt.close('all')
 
     for fichero in ficheros:
