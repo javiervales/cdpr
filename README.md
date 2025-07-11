@@ -10,6 +10,9 @@
   
 ## Paper materials
 <ul>
-  <li> <b>cdpr_outlier_detector.py</b>: main script for data processing data
-  <li> <b>*.txt</b>: data, one file per experiment
+  <li><b>cdpr_outlier_detector.py</b>: main script for data processing</li>
+  <li><b>*.csv</b>: data files, one per experiment (limited to 25 MB due to GitHub restrictions)</li>
+  <li><b>*.log</b>: log files with labeling information for each experiment</li>
+  <li>Full data files available at <a href="https://dpv.uvigo.gal/index.php/s/9eTBM9SewHCTKQm" target="_blank">this link</a></li>
 </ul>
+
